@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**jamcalli/jamcalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer passionate about building efficient, scalable applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently working on automation and workflow optimization tools
+- 🌱 Experienced with React, Node.js, TypeScript, and Docker
+- 📫 Open to new opportunities in full-stack development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+## 🏆 Achievements
+- 🐳 30,000+ Docker pulls
+- ⭐ 100+ GitHub stars
+- 🚀 5+ years of full-stack development
