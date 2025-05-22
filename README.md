@@ -15,7 +15,7 @@ I'm a full-stack developer passionate about building efficient, scalable applica
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jamcalli&show_icons=true&theme=dark)
 
 ## 🏆 Achievements
 - 🐳 30,000+ Docker pulls
