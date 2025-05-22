@@ -12,8 +12,8 @@ I'm a full-stack developer passionate about building efficient, scalable applica
 
 ![](https://github-readme-stats.vercel.app/api?username=jamcalli&show_icons=true&theme=dark&include_all_commits=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamcalli&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamcalli&theme=dark)
 
 ## 🏆 Open Source Impact
 - 🐳 **30,000+** Docker pulls
