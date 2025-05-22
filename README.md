@@ -14,7 +14,6 @@ I'm a full-stack developer passionate about building efficient, scalable applica
 
 ## 🏆 Open Source Impact
 - 🐳 
-![Image 1](https://img.shields.io/docker/pulls/lakker/pulsarr?label=Image1%20Pulls)
-![Image 2](https://img.shields.io/docker/pulls/lakker/abb-discord-bot?label=Image2%20Pulls)
+![Image 1](https://img.shields.io/docker/pulls/lakker/pulsarr?label=Image1%20Pulls) [Image 2](https://img.shields.io/docker/pulls/lakker/abb-discord-bot?label=Image2%20Pulls)
 - ⭐ **100+** GitHub stars  
 - 👥 Active community of users and contributors
