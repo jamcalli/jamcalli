@@ -14,6 +14,6 @@ I'm a full-stack developer passionate about building efficient, scalable applica
 </div>
 
 ## 🏆 Open Source Impact
-- 🐳 **Docker Hub:** ![Pulsarr](https://img.shields.io/docker/pulls/lakker/pulsarr?label=Pulsarr) ![Discord Bot](https://img.shields.io/docker/pulls/lakker/abb-discord-bot?label=Discord%20Bot)
+- 🐳 **Docker Hub:** ![Pulsarr](https://img.shields.io/docker/pulls/lakker/pulsarr?label=Pulsarr)
 - ⭐ **GitHub Stars:** ![Stars](https://img.shields.io/github/stars/jamcalli?style=flat&logo=github&label=Total)
-- 👥 Active community of users and contributors
+- 👥 Active community member
