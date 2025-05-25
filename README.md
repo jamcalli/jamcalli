@@ -1,5 +1,5 @@
 # 👋 Hi there!
-Geospatial Specialist by day, Full-Stack Developer by night. I build tools that make workflows smoother.
+Geospatial Specialist by day, Developer by night. I build tools that make workflows smoother.
 
 ## 🚀 About Me
 - 🔭 Building automation tools, compliance systems, and media management applications
